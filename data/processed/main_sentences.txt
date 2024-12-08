@@ -1,0 +1,347 @@
+feel very approachable and excited to have you.
+Right, so I'm going to start with some questions
+and then we're going to open it up.
+Let me get straight into it.
+So Bill Gates said, there is no one in our time who has done more to push the bounds of science innovation than you.
+What's kind of answer?
+Well, that's it.
+That's a nice thing to have anyone's to say about you.
+Nice coming from Bill Gates.
+But oddly enough, when it comes to AI, actually, for around a decade, you've almost been in the opposite and saying, hang on, we need to think about what we're doing and what we're pushing here and what do we do to make this safe
+and actually maybe we shouldn't be pushing as fast or as hard as we are.
+You've been doing it for a decade.
+What was it that caused you to think about it that way and why do we need to be worried?
+Yeah, I've been somewhat of a Cassandra for quite a while.
+I would tell you, we're really concerned about AI.
+We're like, what are you talking about?
+They've never really had any experience with AI.
+But since I was immersed in technology, I have been a person in technology for a long time, I could see it coming.
+But I think this year was that there have been a number of breakthroughs.
+The point at which someone can see a dynamically created video of themselves, it's already a correct video of you saying anything in real time, or me.
+So the deep-picked videos, which are really incredibly good, in fact, sometimes we're convincing them real ones.
+And deep-real.
+And then obviously things like charge GBT were quite remarkable.
+Now I saw GBT1, GPD2, GPD3, GPD4, the whole sort of lead up to that.
+So it was easy for me to kind of see where it's going.
+If you just sort of extrapolate the points on a curve and assume that trend will continue, then we will have profound artificial intelligence.
+And obviously at a level that far exceeds human intelligence.
+So I'm glad to see at this point that people are taking safety seriously.
+And I'd like to say thank you for holding this AI safety conference.
+I think actually it will go down in history as being very important.
+I think it's really quite profound.
+And I do think overall that the potential, it's therefore artificial intelligence AI to have most likely positive effect and to create a future of abundance where there is no scarcity of goods and services.
+But it is somewhat of the magic genie problem, where if you have a magic genie that can grant all the wishes, usually those stories don't end well.
+If you care for what you wish for, including wishes.
+So you talked a little bit about the summit and thank you for being engaged in it, which has been great and people enjoyed having you there.
+Potter is building in this dialogue.
+Now one of the things that we achieved today in the meetings between the companies and the leaders was an agreement that externally, ideally governments should be doing safety testing of models before they're released.
+I think this is something that you've spoken about a little bit.
+It was something we worked really hard on because my job in government is to say hang on there is a potential risk here, not a definite risk but a potential risk of something that could be bad.
+My job is to protect the country.
+And we can only do that if we develop the capability we need in our safety institute and then go in and make sure we can test the models before they are released.
+Delighted that happened today.
+But what's your view of what we should be doing?
+You've talked about the potential risk.
+Right again we don't know.
+But what are the types of things governments like R should be doing to manage and mitigate against those risks?
+Well I generally think that it is good for government to play a role when the public safety is at risk.
+So really for the vast majority of software, the public safety is not at risk.
+If the app crashes on your phone or laptop, it's not a massive catastrophe.
+But when you're talking about digital super intelligence, I think which does pose a risk to the public, then there is a role for government to play to safeguard the interests of the public.
+And this is of course true in many fields, aviation cars.
+I do what regulators throughout the world because of starting being communications, rockets being aerospace and cars being being transport.
+So I'm very familiar with dealing with regulators and actually agree with the vast majority of regulations.
+There's a few that I disagree with from time to time but .1% probably.
+Well less than 1% of regulations I disagree with.
+So there is some concern from people in Silicon Valley who never dealt with regulators before and they think that this is going to just crush innovation and slow them down and be annoying.
+But it will be annoying.
+It's true.
+They're not wrong about that.
+But I think we've learnt over the years that having a referee is a good thing.
+And if you look at any sports game, there's always a referee.
+And nobody's suggesting I think to have a sports game without one.
+And I think that's the right way to think about this is for government to be a referee to make sure the sportsman like conduct and the public safety is addressed that we care about public safety.
+Because I think there might be at times too much optimism about technology.
+And I say that as a technologist.
+I mean so I ought to know.
+And likes that on balance I think that the AI will be a forceful good most likely
+but the probability of it going bad is not 0%.
+So we just need to mitigate the downside potential.
+And then how you took about referee
+and that's what we're talking about.
+We took about this and I discussed this the long time ago.
+I'm like literally facing right.
+And actually you know, Demis to his credit and the credit of people in the industry did say that to us.
+But you know, Demis says not right that Demis and his colleagues are marking their own homework.
+Right?
+There needs to be someone independent.
+And that's why we've developed the Safety Institute here.
+Do you think governments can develop the expertise?
+One of the things we need to do is they hang on, you know, Demis and Sam and all the others have got a lot of very smart people doing this.
+Governments need to quickly tool up capability wise, personnel wise, which is what we're doing.
+I mean, do you think it is possible for governments to do that fast enough given how quickly the technology is developing or what do we need to do to make sure we do it quick enough?
+No, I think it's great.
+It's a great point you're making.
+The pace of AI is faster than any technology I've seen in history by far.
+And it seems to be growing in capability by at least five full perhaps ten full per year.
+It'll certainly grow by an order of magnitude next year.
+Yeah.
+So, and government isn't used to moving at that speed.
+But I think even if there are not firm regulations, even if there isn't an enforcement capability, so we have an insight and being able to highlight concerns to the public will be very powerful.
+So, even if that's all that's accomplished, I think that will be very, very good.
+Okay, well, hopefully we can do better than that.
+Hopefully, yeah.
+Yeah.
+No, but that's how far I've shown it.
+We were talking before.
+It was striking, you know, someone who spent their life and technology, they're living more's law.
+And what was interesting over the last couple of days, talking everyone who's doing the development of this, and I think you can cover this, is just the pace of advancement here is unlike anything.
+All of you have seen in your careers and technology.
+Is that fair?
+Because you've got these kind of compounding effects from the hardware and the data and the personnel.
+Yeah.
+I mean, the two currently the two leading centers for AI development are the San Francisco Bay Area and the sort of London area.
+And there are many other places where it's being done, but those are the two leading areas.
+So, I think if, you know, if the United States and the UK and China are sort of aligned on on safety, that's all going to be a good thing.
+That's really, that's where that's where the leadership is generally.
+I mean, you actually, you mentioned China there.
+So, I took a decision to invite China to summit over the last few days.
+And it was not an easy decision.
+A lot of people criticized me for it.
+You know, my viewers, if you're going to try that.
+It's essential.
+Serious conversation.
+You need to.
+But what would your thoughts?
+You do business all around the world.
+You just talked about it there.
+Yeah.
+You know, should we be engaging with them?
+Can we trust them?
+Is that the right thing to have done?
+If China is not on board with AI safety, it's somewhat of a mood situation.
+The single biggest objection that I get to any kind of AI regulation or sort of safety controls are, well, China's not going to do it.
+And therefore, they will just jump into the lead and exceed us all.
+But actually, China is willing to participate in AI safety.
+And thank you for inviting them.
+And they, you know, I think we should thank China for attending.
+When I was in China earlier this year, the main surrogate of discussion with this leadership in China was AI safety.
+And saying that this is really something that they should care about.
+And they took it seriously.
+And you are too, which is great.
+And having them here, I think, was essential, really.
+If they're not participants, it's pointless.
+It's pointless.
+Yeah.
+No, that's, and I think we were pleased.
+They were engaged yesterday in the discussions and actually ended up signing the same community that everyone else did.
+That's great.
+Which is a good start, right?
+And as we need everyone to approach us in a similar way, if we're going to have, I think, a realistic chance of resolving it.
+I was going to, you talked about innovation earlier and regulation being annoying.
+There was a good debate today we had about open source.
+And I think you've kind of been a proponent of algorithmic transparency and making some of the ex algorithms public.
+And we were talking about every hint on the way in.
+Yeah.
+He's particularly been very concerned about open source models being used by bad actors.
+You've got a group of people who say they are critical to innovation happening in that distributed way.
+Look, it's a trick.
+There's probably no perfect answer.
+And there's a tricky balance.
+What are your thoughts on how we should approach this open source question?
+Or where should we be targeting whatever regulatory or monitoring that we're going to do?
+Well, the open source algorithms and data tend to lag the closed source by six to twelve months.
+But given the rate of improvement, that this actually therefore quite a big difference between the closed source and the open.
+If things are improving by a factor of the T5 or more than being a year behind is your five times worse.
+So it's a pretty big difference.
+And that might be actually an okay situation.
+But it certainly will get the point where you've got open source AI that can do that will start to approach human level intelligence, or perhaps succeed it.
+I don't know quite what to do about it.
+I think in somewhat inevitable, there'll be some amount of open source.
+And I guess I would have a slight bias towards open source.
+At least you can see what's going on.
+There was a closed source.
+You don't know what's going on.
+Now, it should be said with AI that even if it's open source, do you actually know what's going on?
+Because if you've got a gigantic data file and sort of billions of data points or weights and parameters, you can't just read it and see what it's going to do.
+It's a gigantic file of inscrutable numbers.
+You can test it when you run it.
+You can run a bunch of tests to see what it's going to do.
+But it's probabilistic as opposed to deterministic.
+It's not like traditional programming where you've got a discrete logic and the outcome is very predictable.
+And you can read each line and see what each line is going to do.
+And neural net is just a whole bunch of probabilities.
+I mean, it sort of ends up being a giant comma separated value file.
+It's like our digital guide is a CSP file.
+Really?
+Okay.
+That's kind of what it is.
+Yeah.
+Now, at that point, you've just made it's one that we have been talking about a lot because, again, conversation with the people who are developing their technology make the point that you've just made.
+It is not like normal software where there's predictability about inputs improving, leading to this particular output improving.
+And as the models iterate and improve, we don't quite know what's going to come out the other end.
+I think Dennis would agree with that, which is why I think there is this bias for that we need to get in there while the training runs are being done before the models are released to understand what is this new iteration brought about in terms of capability, which it sounds like you would agree with.
+I was going to shift gears a little bit.
+You've talked a lot about human consciousness, human agency, which actually might strike people as a strange given that you are known for being such a brilliant innovator in technologies, but it's quite heartfelt when I hear you talk about it and the importance of maintaining that agency in technology and preserving human consciousness.
+Now, it links the thing I was going to ask is when I do interviews or talk to people out and about in this job of that AI, the thing that comes up most actually is it's probably not so much the stuff we've been talking about, but jobs.
+It's what does AI mean for my job?
+Is it going to mean that I don't have a job or my kids are not going to have a job?
+Now, my answer as a policymaker is a leader is actually AI is already creating jobs and you can see that in the companies that are starting.
+Also, the way it's being used is a little bit more as a co-pilot, necessarily versus replacing the person.
+There's still human agency, but it's helping you do your job better, which is a good thing.
+As we've seen with technological revolutions in the past, clearly there's change in the labor market, the amount of jobs.
+I was quoting an MIT study today that they did a couple of years ago, something like 60% of the jobs at that moment didn't exist 40 years ago, so hard predict.
+And my job is to create an incredible education system, whether it's at school, whether it's retraining people at any point in their career, because ultimately if we've got a skilled population that we ought to keep up with the pace of change and have a good life.
+But it's still a concern.
+And what would your observation be on AI and the impact on labor markets and people's jobs, and how they should feel about that as they think about this?
+Well, I think we are seeing the most disruptive force in history here.
+We have for the first time, we will have the first time something that is smarter than the smartest human.
+And that, I mean, it's hard to say exactly what that moment is, but there will come a point where no job is needed.
+You can have a job if you want to have a job for sort of personal satisfaction, but the AI will be able to do everything.
+So I don't know if that makes people comfortable on comfortable.
+That's why I say if you wish for a magic genie, that gives you any wishes you want.
+And there's no limit.
+You don't have those three limits, three wish limits, not since you just have many wishes you want.
+So it's both good and bad.
+One of the challenges in the future will be how do we find meaning in life if you have a magic genie that can do everything you want.
+I do think we, it's hard, you know, when this new technology tends to have, usually follow an S-Cov, in this case, we're going to be on the exponential portion of the S-Cov for a long time.
+And you know, we have to be able to ask for anything.
+It won't be, and we want to have universal basic income, we'll have universal high income.
+So in some sense it'll be somewhat of a leveler, or an equalizer, because really I think everyone will have access to this magic genie.
+And you're able to ask any question.
+It'll be certainly good for education.
+It'll be the best tutor.
+You could end up the most patient tutor.
+So they're all there.
+And there will be no shortage of goods and services.
+We'll be in the age of abundance.
+I think if I'd recommend people read in banks, the banks, culture books are probably the best in visioning, in fact not probably, they're definitely by far the best in visioning of an AI future.
+There's nothing even close.
+So I'd recommend, really recommend banks, I'm a very big fan.
+All these books are good.
+There's no, say which one, all of them.
+So that'll give you a sense of what is a fairly utopian or pro-topian future with AI.
+Which is good from a, as you said, it's a universal high income, which is a nice phrase, and it's good from a materialistic sense, age of abundance.
+Actually, it can then lead to the question that you pose.
+I'm somebody who believes work gives you meaning.
+Right.
+A lot of that, as I think work is a good thing.
+It gives people purpose in their lives.
+And if you then remove a large chunk of that, what does that mean?
+And where do you get that?
+Yeah.
+Where do you get that drive, that motivation, that purpose?
+I mean, you were talking about it.
+You work a lot of hours.
+As I was mentioning, when we were talking earlier, I have to somewhat engage in deliberate suspension of disbelief.
+Because I'm putting so much blood sweat tears into a work project and burning the three AM oil.
+Then I'm like, why am I doing this?
+I just wait for the AI to do it.
+I'm just lashing myself in no reason.
+I'm just being glad for punishment, is I?
+We call, call, call, call, damn it, and tell them to hurry up, and then you can have a holiday, right?
+That's a plan.
+Yeah.
+No, it's a, I look as a tricky, it's a tricky thing, because I think, you know, part of our job is to make sure that we can navigate to that very, I think, largely positive place at your desk.
+It is like helping people through it between now and then, because these things bring a lot about a change in the labor market, as we've seen.
+Yeah.
+I think it's probably is generally a good thing, because you know, there are a lot of jobs that are uncomfortable or dangerous or sort of tedious, and the computer will have no problem doing that.
+They're happy to do that all day long.
+So, you know, it's fun to cook food, but it's not that fun to watch the dishes.
+But the computer is perfectly happy to watch the dishes.
+I guess there is, you know, we still have sports, like where humans compete, and like the Olympics, and obviously a machine can go faster than any human, but we still have, we still humans race against each other, and have, you know, have at least sports competitions against each other, where even though the machines are better, there's, I guess, a competing seat who can be the best human at something.
+And people do find a performance in it.
+So, I guess that's perhaps a good example of how even when machines are faster than are stronger than us.
+We still find a way.
+We saw, we saw, enjoy competing against other humans, so at least we see who's the best human.
+Yeah.
+That's a good analogy.
+And we've been talking a lot about managing the risks.
+Just before we move on, finish on AI, it's just talking a little bit about the opportunities.
+You know, you're engaged in lots of different companies, you're developing an obvious one.
+Which is doing, which is doing some exciting stuff.
+You touched on the thing that I'm probably most excited about, which is an education.
+Yeah.
+And I think many people will have seen South Khan's video from earlier this year, as Ted talked about.
+As you talked about, it's like personal tutor.
+Yeah, personal tutor.
+An amazing personal tutor.
+And we know the difference in learning having that personal as tutor is incredible compared to classroom learning.
+If you can have every child have a personal tutor specifically for them, that then just evolves with them over time.
+Yeah.
+That could be extraordinary.
+So, for me, I look at, I think, gosh, that is within reach at this point.
+And that's one of the benefits I'm most excited about.
+When you look at the landscape of things that you see as possible, what is it that you are particularly excited about?
+I think certainly AI tutors are going to be amazing.
+Perhaps already are.
+I think there's also perhaps companionship, which may seem odd because how can the computer really be your friend?
+But if you have an AI that has memory and remembers all of your interactions and has read, you're going to say, like, give it permission to read everything you've ever done.
+So really, we'll know you better than anyone.
+Perhaps even yourself.
+And where you can talk to it every day and those conversations bother point each other, you will actually have a great friend.
+As long as that friend can stay, your friend did not get turned off or something.
+Don't turn off my friends.
+But I think that will actually be a real thing.
+And one of my sons has sort of learned in the disabilities and has trouble making friends, actually.
+And I was like, well, he, my friend would actually be a great friend.
+That was a surprising answer.
+That's actually worth reflecting on.
+I mean, we're already seeing it as we deliver psychotherapy anyway, now doing far more by digitally and by telephone to people.
+It's making a huge difference.
+And you can see a world in which actually, AI can provide that social benefit to people.
+Just a quick question on, on X, and then we should open it up to everybody.
+You made a change in one of the many changes, but one of the changes.
+You love that letter.
+I've got a real thing about it.
+You really do.
+One of the changes, which, you know, kind of, it goes into the space that, you know, we have to operate in and this balance between free speech and moderation is a, you know, we grapple with as politicians.
+You are grappling with your inversion of that.
+And you moved away from a, kind of, manual human way of doing it, the moderation to the community notes.
+And I think it was an interesting change, right?
+It's not what everyone else has done.
+It would be good, you know, what's, what was the reasoning behind that?
+Why do you think that is a better way to do that?
+Yeah.
+Part of the problem is if you're, if you empower people as sensors, then well, that there's going to be some amount of bias that they have.
+And then whoever points the sensors is effectively in control of information.
+So then the idea behind community notes is, well, how do we have a consensus driven?
+I mean, so it's not really censoring it, but consensus driven approach to truth.
+How do we, how do we make things the least amount untrue?
+You can say like, you can't pass, perhaps, get to pure truth, but you can aspire to be more truthful.
+So the thing about community notes is it doesn't actually delete anything.
+It simply adds context.
+Now that context could be this thing is untrue for the following reasons.
+But importantly, with community notes, everything is open source, actually.
+So you can see the software, every line of the software, you can see all of the data that went into a community note.
+And you can independently create that community note.
+So if you've got, if you see manipulation of the data, you can actually highlight that and say, well, this, this, this, there has to be some gaming of the system.
+And you can suggest improvements.
+So it's, it's, it's maximum transparency, which is, I think, combined with the kind of wisdom of the crowds and transparency to get to a better answer.
+And really, one of the key elements of community notes is that in order for a note to be shown, people who have historically disagreed must agree.
+And there is a bit of AI usage here.
+So this will populate a parameter space around each contributor to community notes.
+And then a parameter of space.
+So everyone's got basically these, these vectors associated with them, which, so it's not as simple as as Rige or left.
+It's saying it's more, it's several hundred vectors that, that, because things are more complicated than something right or left.
+And, and then we'll do sort of inverse correlation.
+Say like, okay, these, these people generally disagree, but they agree about the note.
+Okay, so then that, that, that gives the note credibility.
+Okay.
+Yeah.
+That's, that's, that's the, that's the core of it.
+And it's working quite well.
+Yeah.
+I get to see a note actually be, be present for more than a few hours, that, that is incorrect.
+So the battery average is extremely good.
+And, and when I ask people say, they're worried about community notes, sort of being disinformation like send me one.
+And then they can't.
+So, so I think it's, I think it's quite good.
+I mean, the general aspiration is with, with the X platform is to inform and entertain the public.
+And to be as accurate as possible and as truthful as possible.
+Even if someone doesn't like the truth, you know, this is not people that always like the truth.
+No.
+No, not always.
+But that's, that's, that's the aspiration.
+And I think if, if we are, if we stay true to the truth, then I think we'll find that people use, use the system to learn what is going on and to, to let it, it, it, it, I, I think actually truth pays.
+So I think it, it'll be what, what, I mean, assuming you don't want to engage in self-delusion, then, then, I think it's, it's the smart move.
