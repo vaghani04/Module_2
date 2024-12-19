@@ -1,5 +1,5 @@
 
-# Interview Analysis based on the video
+# Video Interview Based Analysis
 
 This document provides an overview of the Interview Analysis Module developed to evaluate candidates’ performance during interviews. The module seamlessly processes interview videos, extracts and analyzes relevant data, and generates contextual summaries using advanced AI techniques such as Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).
 
@@ -13,7 +13,7 @@ This document provides an overview of the Interview Analysis Module developed to
 Clone the project
 
 ```bash
-  git clone https://github.com/vaghani04/Module_2.git
+  git clone https://github.com/vaghani04/Video_Interview_Based_Analysis.git
 ```
 
 Add video interview in `.\data\raw\<video_interview_name>`
